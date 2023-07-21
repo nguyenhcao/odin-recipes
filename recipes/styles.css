@@ -6,3 +6,9 @@ img {
 figcaption {
     text-align: center;
 }
+
+.page-footer {
+    flex-grow:0;
+    flex-shrink:0;
+    height:10px;
+}
